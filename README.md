@@ -4,8 +4,7 @@ Pour les besoins des tests, des seed data ont été ajoutées au niveau du AppDb
 
 Les membres du groupe :
 Eya ben Ameur /
-Samar BenHouidi/
-Emna Gharbi
+Samar BenHouidi
 
 
 
